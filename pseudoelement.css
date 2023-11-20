@@ -1,0 +1,22 @@
+h1::after{
+    content:" to web class";
+}
+
+h1::before{
+    content:"Hey , ";
+}
+
+h1::first-letter{
+    color:deeppink;
+}
+h1::first-line{
+    background-color:red ;
+}
+
+l1::marker{
+    content:"😘";
+}
+h1::selection{
+    background-color: deeppink;
+    color:aqua
+}
